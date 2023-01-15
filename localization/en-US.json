@@ -438,252 +438,252 @@
 		},
 		"pipliz": {
 			"alarmbell": {
-				"description": "Unlocks the Alarm Bell, which will ring a bell when walked upon by a monster",
+				"description": "Fear lit the bell, and it lit the bell when the monster walked",
 				"name": "Alarm Bell"
 			},
 			"animalcarcass": {
-				"description": "Provides a source for animal carcasses",
-				"name": "Local Animal Carcass"
+				"description": "Provide animal carcasses to the source",
+				"name": "Native Animal Carcasses"
 			},
 			"anvil": {
-				"description": "Unlocks the Anvil, an important source of more advanced products like Copper Tools",
-				"name": "Anvil"
+				"description": "Unlock Incus, the source of more important products like copper tools",
+				"name": "Rhizome"
 			},
 			"archery": {
-				"description": "Unlocks archers and fletchers, a more effective protection against monsters.",
-				"name": "Archery"
+				"description": "Open the gates with archers and screams, a more effective defense against monsters.",
+				"name": "Archer"
 			},
 			"astrolabe": {
-				"description": "Unlocks the astrolabe; a navigation tool that helps find biomes",
+				"description": "Opens the Astrolabe, a navigation tool that helps you find biomes.",
 				"name": "Astrolabe"
 			},
 			"blastfurnace": {
-				"description": "Unlocks a rapid way to smelt advanced metals.",
-				"name": "Blast Furnace"
+				"description": "He quickly opened an orb of advanced metal.",
+				"name": "Oven Inspiration"
 			},
 			"brass": {
-				"description": "Unlocks brass, a relatively soft alloy. It’s not suited for weapons or tools, but its malleability makes it perfect for small detailed parts. It requires zinc, which can be purchased or mined below mammoth trees. ",
+				"description": "He opened the brass smooth tin. She's not proficient with weapons or tools, but her flexibility makes her perfect for any little part. You will need tin which can be bought or dug under the giant tree.",
 				"name": "Brass"
 			},
 			"bread": {
-				"description": "Unlocks the making of bread. Use grindstones to make flour, which can then be used by the cook to make bread.",
+				"description": "He spreads the bread. Use a colander to make flour and use it to bake Bread",
 				"name": "Bread"
 			},
 			"bricks": {
-				"description": "Allows baking clay into new types of blocks",
-				"name": "Bricks"
+				"description": "Clay can be fired as a new block type.",
+				"name": "Brick"
 			},
 			"bronze": {
-				"description": "Unlocks a way to make copper stronger, by mixing it with the rare and valuable tin",
-				"name": "Bronze Age"
+				"description": "He discovered a way to make copper stronger by mixing it with fine and precious tin.",
+				"name": "Bronze Age."
 			},
 			"bronzelockbox": {
-				"description": "Unlocks the Bronze Lockbox. Improved version of the Copper Lockbox. More storage, more efficiency, less threatening.",
-				"name": "Bronze Lockbox"
+				"description": "Brass opens the lock. An improved version of the air lock box. More storage, higher performance, lower risk.",
+				"name": "Brass Padlock"
 			},
 			"caltrop": {
-				"description": "Unlocks a trap that once loaded will slow monsters below it",
-				"name": "Caltrops"
+				"description": "Once loaded, it unlocks a trap that slows mobs underneath it.",
+				"name": "Water Chestnut"
 			},
 			"chestluxury": {
-				"description": "Unlocks Luxury Chests, which are necessary to unlock advanced technology.",
-				"name": "Luxury Chest"
+				"description": "Unlock advanced chests needed to unlock advanced skills.",
+				"name": "Deluxe Box"
 			},
 			"chestprestige": {
-				"description": "Abandon all hope of reward and proportion, ye who enter here! Prestige Chests are necessary for Prestige Science. It’s a stretch goal for enthusiastic colonies.",
-				"name": "Prestige Chest"
+				"description": "Enter here and throw away all hopes for returns and percentages! The authority of the ark is a necessary authority. This program is designed to study colonies.",
+				"name": "Permission Framework"
 			},
 			"chestresource": {
-				"description": "Unlocks Science Chests, which are necessary to unlock advanced technology",
-				"name": "Science Chest"
+				"description": "He opened the science chest needed to unlock advanced technology.",
+				"name": "Ark of Science"
 			},
 			"chickenmeal": {
-				"description": "Unlocks a more complex meal which yields more Sacred Points when consumed by colonists",
-				"name": "Chicken Meals"
+				"description": "Unlocked more complex solutions that made the colonists consume more of the mystery.",
+				"name": "chicken Amen"
 			},
 			"compass": {
-				"description": "Unlocks the compass; a navigation tool to find back your home",
+				"description": "It opens the world, a navigation tool to find your home",
 				"name": "Compass"
 			},
 			"constructionbuilder": {
-				"description": "Unlock builder areas for the construction worker",
-				"name": "Builder"
+				"description": "Construction worker base builder site",
+				"name": "Founder"
 			},
 			"constructiondigger": {
-				"description": "Unlock digger areas for the construction worker",
-				"name": "Digger"
+				"description": "He works on the construction site of an excavation base.",
+				"name": "Excavator"
 			},
 			"constructiondiggerspecial": {
-				"description": "Unlock special digger areas for the construction worker",
-				"name": "Special Digger"
+				"description": "Build a base by excavating a special area",
+				"name": "Special Excavator"
 			},
 			"cook": {
-				"description": "Unlocks the cook and the fisherman, new sources of meals for your colonists",
-				"name": "Cook"
+				"description": "Unlock cooks and fishermen to provide new food sources for your farmers.",
+				"name": "Chef"
 			},
 			"copperlockbox": {
-				"description": "Unlocks the Copper Lockbox. While placed it increases the colony point capacity. Warning: every placed lockbox will lure more monsters to your colony!",
-				"name": "Copper Lockbox"
+				"description": "Brass unlocks the lockbox. Placing points increases the colony's abilities. Beware: locks will attract more monsters to your colony.",
+				"name": "Air Lock Box"
 			},
 			"cotton": {
-				"description": "Unlocks a source of high quality textiles. Cotton plants only grow in heaths.",
-				"name": "Cotton"
+				"description": "Unlock high-quality fabrics. Cotton plants can only grow on canes.",
+				"name": "Noodle"
 			},
 			"crossbow": {
-				"description": "More powerful archery",
-				"name": "Crossbows"
+				"description": "A stronger archer",
+				"name": "Crossbow"
 			},
 			"dyeing": {
-				"description": "Learn to grow flowers in marshes, allowing you to add color to your world.",
-				"name": "Dyeing"
+				"description": "Learn how to grow flowers in the swamp to add color to the world.",
+				"name": "Paint"
 			},
 			"elevator": {
-				"description": "Unlocks elevator production, useful for traversing vertical distances",
+				"description": "Open production elevators useful for traversing vertical spaces.",
 				"name": "Elevator"
 			},
 			"elevatorhorizontal": {
-				"description": "Unlocks horizontal elevator production, useful for traversing horizontal distances",
-				"name": "Horizontal Elevator"
+				"description": "Started production of horizontal elevators useful for horizontal space movement",
+				"name": "Horizontal Lift"
 			},
 			"engineer": {
-				"description": "Unlocks the engineer and the trapfixer. The engineer makes traps and their ammo, which can be used to fight monsters. The trapfixer will load and reload nearby traps.",
+				"description": "He is a mechanic and trap repairer. Engineers create traps and ammunition that can be used on monsters. Grab a charge near the trap and reload.",
 				"name": "Engineer"
 			},
 			"failsafe": {
-				"description": "Unlocks the Sacred Failsafe, an emergency tool that uses Sacred Points to eliminate monsters",
-				"name": "Sacred Failsafe"
+				"description": "Unlocks the Sacred Failsafe, an emergency tool used to rid Sacred Points of monsters.",
+				"name": "divine safeguard"
 			},
 			"farming": {
-				"description": "Unlocks the wheat farmer. Wheat will grow in importance as food over time.",
-				"name": "Wheat Farming"
+				"description": "The farmer has already harvested wheat. The importance of wheat as a food product will only increase over time.",
+				"name": "countryside wheat"
 			},
 			"furnace": {
-				"description": "Unlocks the smelter, a worker who processes ores",
-				"name": "Smelter"
+				"description": "He opened the blacksmith's mouth and the worker continued",
+				"name": "Casting"
 			},
 			"glassblower": {
-				"description": "Unlocks a way to craft glass",
-				"name": "Glassblower"
+				"description": "Beginning the path of art glass",
+				"name": "Glass Blower"
 			},
 			"glider": {
-				"description": "Unlocks glider production, allowing unpowered flight from higher points",
+				"description": "The glider craft is unlocked allowing unpowered flight at higher altitudes.",
 				"name": "Glider"
 			},
 			"glidersteel": {
-				"description": "Unlocks a launcher that quickly shoots gliders to tremendous heights.",
-				"name": "Launched Steel Glider"
+				"description": "Lauunculus opened it and quickly attached itself to the terrifying apex.",
+				"name": "Open Iron Glider"
 			},
 			"goldenstatue": {
-				"description": "Unlocks the Threat Banner, which will attract monsters from other outposts to the one it's placed in.",
+				"description": "Unlocked threat banners from other stations that can lure monsters to specific locations.",
 				"name": "Threat Banner"
 			},
 			"grassdirt": {
-				"description": "Provides a source for grass and dirt",
-				"name": "Grass & Dirt Production"
+				"description": "The fountain provides grass and mud",
+				"name": "Herb and plant production"
 			},
 			"grenadelauncher": {
-				"description": "Unlocks a powerful weapon which can eliminate groups of enemies at a distance.",
+				"description": "Unlock powerful weapons that can take out hordes of enemies from a distance.",
 				"name": "Grenade Launcher"
 			},
 			"gunpowder": {
-				"description": "Unlocks a powerful new ingredient",
-				"name": "Gunpowder"
+				"description": "Contains powerful new materials",
+				"name": "Powder"
 			},
 			"guntrap": {
-				"description": "Unlocks a powerful trap which does enormous amounts of damage.",
+				"description": "Unlock powerful traps that can do massive damage.",
 				"name": "Cannon Trap"
 			},
 			"handcannon": {
-				"description": "Unlocks a powerful, short-range weapon",
-				"name": "Handcannon"
+				"description": "Unlock powerful short-range weapons",
+				"name": "Hand Cannon"
 			},
 			"hemp": {
-				"description": "Unlocks the cultivation of hemp plants in marshes as well as purchasing it. Leads towards processing it into ropes and paper.",
-				"name": "Hemp"
+				"description": "He started growing and buying marijuana in the swamp. To speed up, he rides on ropes and papers.",
+				"name": "Three"
 			},
 			"iron": {
-				"description": "A major step forward for your colony, unlocking a new material which is required in many items",
+				"description": "Progress through major stages for your colony by unlocking new materials needed for many items.",
 				"name": "Iron Age"
 			},
 			"jewellery": {
-				"description": "Unlocks the Jeweler, who creates delicate things",
+				"description": "I am a jeweler who creates beautiful objects.",
 				"name": "Jeweler"
 			},
 			"jewelry": {
-				"description": "Unlocks jewelry, a good product for trade",
-				"name": "Jewelry"
+				"description": "Unlock decorations, great for artwork",
+				"name": "bijouterie"
 			},
 			"lanterns": {
-				"description": "Unlocks lanterns, useful for lighting up places",
-				"name": "Lanterns"
+				"description": "Turn on useful lanterns for lighting spaces",
+				"name": "Lamp"
 			},
 			"lathe": {
-				"description": "Unlocks a complex machine which allows colonists to rapidly make detailed metal parts.",
-				"name": "Metal Lathe"
+				"description": "Unlocked complex machinery that allows farmers to quickly craft precision metal parts.",
+				"name": "Metal Shelf"
 			},
 			"miner": {
-				"description": "Unlocks the miner. When placed on a dark stone block, a colonist will come to mine that material continuously.",
-				"name": "Miner"
+				"description": "He unlocked the miner. If you put the log into the dark stone, the settlers will keep coming back to you with this material.",
+				"name": "Pitman"
 			},
 			"monocular": {
-				"description": "Unlocks a nifty tool which can be used to observe things in the distance",
+				"description": "Smart unlock tool for remote viewing",
 				"name": "Monocular"
 			},
 			"mudbricks": {
-				"description": "Unlocks mudbricks, a cheap and simple building material",
-				"name": "Mudbricks"
+				"description": "Open mud brick, an inexpensive and simple building material",
+				"name": "Mud brick"
 			},
 			"musket": {
-				"description": "Unlocks a new gunpowder weapon. Does less damage than a handcannon but the ammo is cheaper, it has a larger range and it’s quicker to reload.",
+				"description": "Unlock new weapons. They do less damage than hand cannons, but have cheaper ammo, longer range, and faster reloads.",
 				"name": "Musket"
 			},
 			"nitro": {
-				"description": "Unlocks a highly explosive compound essential for smokeless powder. It’s a lot less messy than traditional gunpowder, allowing for the development of more sophisticated firearms with many moving parts.",
+				"description": "ACAPNOS' explosive compound is required to unlock the powder. It is much dirtier than traditional gunpowder, allowing the development of more complex firearms with many moving parts.",
 				"name": "Nitrocellulose"
 			},
 			"npcshop": {
-				"description": "Unlocks the Grocery Shop, a place where colonists can receive their daily meals. If none are found, they'll visit the banner.",
-				"name": "Grocery Shop"
+				"description": "He opened a grocery store where farmers could buy their daily food. A flag should be displayed if not found.",
+				"name": "Greengrocer"
 			},
 			"outposts": {
-				"description": "Unlocks Outpost Banners. They can be placed to expand the colony, both close and further away.",
-				"name": "Outposts"
+				"description": "The outpost banner has been unlocked. They can be near and far to expand colonies.",
+				"name": "Station"
 			},
 			"papermaking": {
-				"description": "Unlocks making paper from hemp, a key part towards scientific progress",
-				"name": "Paper Production"
+				"description": "He discovered hemp paper, a key part of scientific progress.",
+				"name": "Restraint"
 			},
 			"poison": {
-				"description": "Unlocks poison processing, useful for inflicting damage to monsters over time. Wisteria plants can only be grown in heaths. Each wisteria harvester needs 10 wisteria plants nearby to function well.",
+				"description": "Over time, you've unlocked the Poison Process, which is useful for dealing damage to monsters. Wisteria plants only grow on heather. Each Sage Harvest requires 10 nearby Sage Plants to work properly.",
 				"name": "Poison"
 			},
 			"porridge": {
-				"description": "Unlocks combining water and wheat into a new meal type",
-				"name": "Porridge"
+				"description": "It was discovered as a new type of flour by combining water and wheat.",
+				"name": "Pulp"
 			},
 			"pottery": {
-				"description": "Unlocks pottery, used to carry things around, and earthenware that can be sold",
-				"name": "Pottery"
+				"description": "they were selling pots",
+				"name": "Ceramic"
 			},
 			"prestige1": {
-				"description": "A goal to organize and measure the best of our energies and skills!",
-				"name": "Prestige I"
+				"description": "The goal is to match your best powers and skills!",
+				"name": "Effective Self"
 			},
 			"prestige2": {
-				"description": "It’s not the destination that matters: it’s the journey.",
-				"name": "Prestige II"
+				"description": "Business is a journey, not a destination.",
+				"name": "Dignity 2"
 			},
 			"prestige3": {
-				"description": "This place is a place of honor. A highly esteemed deed is commemorated here.",
-				"name": "Prestige III"
+				"description": "This is a place of honor. A great feat is mentioned here.",
+				"name": "Majesty 3"
 			},
 			"prestige4": {
 				"description": "The last mile is the longest!",
-				"name": "Prestige IV"
+				"name": "Fourth Period"
 			},
 			"prestige5": {
-				"description": "Congratulations! You successfully completed all stretch goals.",
-				"name": "Prestige V"
+				"description": "Miket! In fact, he achieved all of his goals.",
+				"name": "Principle V"
 			},
 			"printingpress": {
 				"description": "Unlocks the printing press, a complex machine that allows you to scale up the production of Books of Knowledge. Also unlocks brass precision parts, which are required for a lot of other machines.",
