@@ -333,8 +333,8 @@
 		},
 		"notifications": {
 			"delete": "Clear Data",
-			"header": "medieval journal",
-			"missingplayerammo": "<color=red>{0} requires {1} in some inventory {1}! </color>",
+			"header": "Medieval Journal",
+			"missingplayerammo": "<color=red>{0} Requires {1} in some inventory {1}! </color>",
 			"npc_died": {
 				"banner": "Monster on the flag",
 				"command": "Use control",
@@ -551,7 +551,7 @@
 			},
 			"failsafe": {
 				"description": "Unlocks the Sacred Failsafe, an emergency tool used to rid Sacred Points of monsters.",
-				"name": "divine safeguard"
+				"name": "Divine safeguard"
 			},
 			"farming": {
 				"description": "The farmer has already harvested wheat. The importance of wheat as a food product will only increase over time.",
@@ -686,88 +686,88 @@
 				"name": "Principle V"
 			},
 			"printingpress": {
-				"description": "Unlocks the printing press, a complex machine that allows you to scale up the production of Books of Knowledge. Also unlocks brass precision parts, which are required for a lot of other machines.",
-				"name": "Printing Press"
+				"description": "Unlocks the Press, a complex machine that allows you to expand production of popular books. It also unlocks precision brass parts required for many other machines.",
+				"name": "Press Down"
 			},
 			"projectiletrap": {
-				"description": "Unlocks a trap that once loaded will shoot sideways at strong monsters",
-				"name": "Projectile Trap"
+				"description": "He opens the trap and once loaded is thrown aside by the mighty monster.",
+				"name": "Project Pitfalls"
 			},
 			"recursiveknowledge": {
-				"description": "Helps make books by using books so you can make more books",
-				"name": "Recursive Self-Improvement"
+				"description": "We help you make books by utilizing books so that you can make more books.",
+				"name": "Retrospective Self-improvement"
 			},
 			"researcher": {
-				"description": "Unlocks the researcher, who will do research using nearby bookcases to progress science",
-				"name": "Researcher"
+				"description": "Unlocks a researcher who studies nearby cabinets to increase their knowledge.",
+				"name": "judge"
 			},
 			"ropes": {
-				"description": "Unlocks an ingredient with many uses",
+				"description": "It is a versatile ingredient",
 				"name": "Ropes"
 			},
 			"ropetrap": {
-				"description": "Unlocks a trap that freezes nearby monsters for 10 seconds when one monster passes over it.",
+				"description": "Disarms a trap that freezes nearby monsters for 10 seconds when a monster passes by.",
 				"name": "Rope Trap"
 			},
 			"sacredhouse": {
-				"description": "Unlocks the Sacred Point Storage, to extend the amount of Sacred Points which can be used by the Failsafe",
-				"name": "Sacred Point Storage"
+				"description": "Unlock Sacred Points to expand the number of Sacred Points your failsafe can use.",
+				"name": "My Sanctuary"
 			},
 			"scribe": {
-				"description": "Unlocks the scribe, who studies scrolls to gain new insights. A scribe requires 10 Scrolls Shelves nearby. The scribe empties them, but they automatically fill themselves up again over time.",
-				"name": "Scribe"
+				"description": "Unlocks a scribe who peruses books for new ideas. The clerk needs 10 shelves at close range. The scribe emptied them, but they were refilled.",
+				"name": "Scholar"
 			},
 			"statistics": {
-				"description": "Unlocks the Statistics Board. When placed and used, it gives insights into the activity of your colony.",
-				"name": "Statistics Board"
+				"description": "Statistics unlock tables. You can see it in the colony's behavior when deployed and used.",
+				"name": "Statistical Office"
 			},
 			"steel": {
-				"description": "Unlocks steel, lead and mineral oil. These resources are necessary for the construction of more modern machinery. Lead ore is found in marshes, and coal is located below mammoth trees.",
-				"name": "Steel, Lead and Mineral Oil"
+				"description": "Unlocked iron, lead and mineral oil. These resources are needed to build modern machines. Lead mines were discovered in swamps and coal was deposited under giant trees.",
+				"name": "Iron, Lead and Mineral Oil"
 			},
 			"steellockbox": {
-				"description": "Unlocks a lockbox with more capacity.",
-				"name": "Steel Lockbox"
+				"description": "Open chests to get more energy.",
+				"name": "Steel Lock Box"
 			},
 			"steeltools": {
-				"description": "Unlocks a more durable tool which allows colonists to do their work more efficiently.",
+				"description": "It will unlock more powerful tools that will allow farmers to work more efficiently.",
 				"name": "Steel Tools"
 			},
 			"stonemason": {
-				"description": "Unlocks the stonemason, useful for adding variety to buildings",
-				"name": "Stonemason"
+				"description": "Useful stones are unlocked to add a variety of buildings.",
+				"name": "Mason"
 			},
 			"tabulator": {
-				"description": "Unlocks a complex machine which processes data and stores it in punched-cards.",
-				"name": "Tabulating Machine"
+				"description": "Unlock complex machines that process data and store it in hacked boxes.",
+				"name": "Tabulator"
 			},
 			"tailoring": {
-				"description": "Unlocks the tailor, a worker who can turn flax into linen and other items. Linen is a good source of colony points",
-				"name": "Tailor"
+				"description": "A tailor who can turn thread into linen and other items. A good source of cotton and linen",
+				"name": "Cutter"
 			},
 			"tanner": {
-				"description": "Unlocks the tanner, a worker who is vital in the production of leather and, later, parchment",
-				"name": "Tanner"
+				"description": "Membranes after the opening of the tannery, which is important for leather production",
+				"name": "Shortcake"
 			},
 			"toolshop": {
-				"description": "Unlocks the Tool Distribution Table, a place where colonists will go to take tools when used. If none are found, they'll go to the banner.",
-				"name": "Tool Distribution"
+				"description": "Unlocks a tool deployment panel that colonists move to use their tools. If you don't find it, go to the sign.",
+				"name": "Deployment Tool"
 			},
 			"trader": {
-				"description": "Used to accelerate trade deals between colonies. Not used for trading with outposts; intended for multiplayer.",
-				"name": "Trader"
+				"description": "They were used to speed up trade between colonies. It's for players, not trading with stations.",
+				"name": "Merchant"
 			},
 			"trading": {
-				"description": "Unlocks the Merchant's Hub, a place where you can buy and sell items",
-				"name": "Merchant's Hub"
+				"description": "Unlock the Merchant Hub, a place to buy and sell",
+				"name": "Merchant Center"
 			},
 			"waterpump": {
-				"description": "Allows gathering water away from water sources",
-				"name": "Water pumping"
+				"description": "Allow water from the spring",
+				"name": "Water Supplier"
 			},
 			"writer": {
-				"description": "Unlocks the writer, parchment and scrolls of knowledge. These are important to complete more advanced science.",
-				"name": "Writer"
+				"description": "Open Authors, Movies and Science Books. It is important for acquiring advanced knowledge.",
+				"name": "Author"
 			}
 		},
 		"popup": {
