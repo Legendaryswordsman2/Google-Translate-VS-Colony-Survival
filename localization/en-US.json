@@ -159,7 +159,7 @@
 			"trading": {
 				"completerule": "Make a rule",
 				"completeruleedit": "View full rules",
-				"mainheader": "New trading rule settings", // To do
+				"mainheader": "Set new trading rules",
 				"newruleinfinite": "The new rule is unlimited trades.",
 				"newrulelimited": "New rules restrict trading",
 				"ruledescription": "Merchant will exchange {0} for {1} to {2} if all of the following conditions are met:",
@@ -241,23 +241,23 @@
 			"yourcontent": "Content created in the studio"
 		},
 		"escapemenu": {
-			"back": "Back",
-			"info": "Info",
+			"back": "Back Off",
+			"info": "Information",
 			"quitdesktop": "Desktop",
 			"quitmain": "Main Menu",
-			"settings": "Settings"
+			"settings": "Environment"
 		},
 		"failsafe": {
-			"current": "Current Sacred Points storage: {0} out of {1}",
-			"damage": "Triggering the Sacred Failsafe will cause {0} damage",
-			"futurewave": "The Failsafe will reduce the total HP of incoming monsters by {0:P0} for the next night",
-			"header": "Failsafe",
-			"nextavailable": "The Failsafe will be available again after the next night",
-			"statusactive": "Status: Sacred Failsafe has been activated",
-			"statusavailable": "Status: Sacred Failsafe is available",
+			"current": "Current Holy Story Points: {0}/{1}",
+			"damage": "Activating Holy Failsafe deals {0} damage.",
+			"futurewave": "Fake reduces total HP of incoming monsters from {0:P0} on the second night.",
+			"header": "Fail Safe",
+			"nextavailable": "Safeguards can be used after the next night.",
+			"statusactive": "Status: Global failsafe enabled",
+			"statusavailable": "Status: Sacred Safeguard enabled",
 			"trigger": "Trigger",
-			"wave": "The current threat level is {0} and will spawn monsters with a total HP of {1}",
-			"wavereduced": "The total HP of incoming monsters will be reduced by {0:P0} the next night"
+			"wave": "The current level of the target is {0} and the total HP of the released monster is {1}.",
+			"wavereduced": "The total health of incoming monsters is reduced by {0:P0} the next night."
 		},
 		"firstpersonstats": {
 			"ammocount": "Ammo:",
