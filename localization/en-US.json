@@ -134,48 +134,48 @@
 			},
 			"selectcolony": {
 				"currentcolony": "Current Colony: {0}",
-				"headercolonists": "Colonists",
-				"headercolony": "Colony",
+				"headercolonists": "Settler",
+				"headercolony": "Community",
 				"headerleader": "Leader",
-				"headerselect": "Select",
-				"nocolonies": "No colonies to list",
-				"nocoloniesowned": "No owned colonies to list",
-				"nocoloniesthird": "No external colonies to list",
-				"othercolonies": "Other Colonies",
-				"select": "Select"
+				"headerselect": "I am studying",
+				"nocolonies": "Non-white colonies",
+				"nocoloniesowned": "They never left the colony",
+				"nocoloniesthird": "There are no foreign colonies on the list",
+				"othercolonies": "Another Colony",
+				"select": "I am studying"
 			},
 			"start": {
-				"create": "Create Colony",
-				"defaultkit": "First time starter kit is used",
-				"kits": "Available Kits",
-				"missingkit": "Missing a colony starter kit",
+				"create": "Colonize",
+				"defaultkit": "If you are using the starter kit for the first time",
+				"kits": "Kits Available",
+				"missingkit": "Missing colony starter kit",
 				"name": "Colony Name",
-				"parentcolony": "Parent Colony",
-				"popupheader": "Colony Creation",
-				"usescienceagreement": "Transfer Science"
+				"parentcolony": "Parent Community",
+				"popupheader": "Colonization",
+				"usescienceagreement": "Science Transfer"
 			},
-			"startsettings": "Colony Settings",
-			"switchcolony2": "Switch active colony to:",
+			"startsettings": "Colonial Background",
+			"switchcolony2": "Active colonies are converted to:",
 			"trading": {
-				"completerule": "Create rule",
-				"completeruleedit": "Complete rule edit",
-				"mainheader": "New trading rule settings",
-				"newruleinfinite": "New infinite trading rule",
-				"newrulelimited": "New limited trading rule",
-				"ruledescription": "Traders will trade {0} from {1} to {2} if both of the following:",
-				"ruledescriptionlimit": " {0} items left to trade.",
-				"ruleincomingdescr2": "Get {0} if they have more than {1} and we have less than {2}.",
-				"rulemaximumgoal": "{0} has less than: ",
-				"rulemaximumtraded": "This deal will send up to the following amount of items in total: ",
-				"ruleminimumthis": "{0} has more than: ",
-				"ruleoutgoingdescr2": "Send {0} if we have more than {1} and they have less than {2}.",
-				"selectcolony": "Select a colony to trade to"
+				"completerule": "Make a rule",
+				"completeruleedit": "View full rules",
+				"mainheader": "New trading rule settings", // To do
+				"newruleinfinite": "The new rule is unlimited trades.",
+				"newrulelimited": "New rules restrict trading",
+				"ruledescription": "Merchant will exchange {0} for {1} to {2} if all of the following conditions are met:",
+				"ruledescriptionlimit": " Transaction {0} has been deleted.",
+				"ruleincomingdescr2": "If they are greater than {1} and we are less than {2} we take {0}.",
+				"rulemaximumgoal": "{0} is less than:",
+				"rulemaximumtraded": "This transaction creates:",
+				"ruleminimumthis": "Exceeding {0}:",
+				"ruleoutgoingdescr2": "If greater than {1} and less than {2}, send {0}.",
+				"selectcolony": "Choose a colony to trade"
 			}
 		},
 		"commands": {
-			"disableachievements": "Achievements have been disabled for this world due to interacting with cheat options",
-			"disableachievementsfirst": "To do that, you must first disable achievements by using the '/disableachievements' command",
-			"nopermission": "You do not have the permission '{0}' to do that."
+			"disableachievements": "Because of your interaction with the environment, your achievements in this world are limited.",
+			"disableachievementsfirst": "To do this, first disable the event using the '/failures' command.",
+			"nopermission": "Unable to execute '{0}'."
 		},
 		"connectingscreen": {
 			"general_1": "Stage {0}/{1} - Password required",
