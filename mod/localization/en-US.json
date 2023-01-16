@@ -1,4 +1,7 @@
 {
+	// Every single line of text in this file has been run through google translate multiple times then put back into this file
+	/// Note: because of modding limitations any client side text such as the pause menu, settings, main menu, etc will not be effected,
+	// however if you want the full experience copy this file into the default localization folder and all client side text will be changed as well including the main menu
 	"coverage": 100.0,
 	"hints": {
 		"0": "On most farms, large farms, production means more than that. This canon accepted Bituricens.",
@@ -379,7 +382,7 @@
 				"cottonfarmer": "Cotton Farmer",
 				"digger": "Excavator",
 				"diggerspecial": "Special Excavator",
-				"dyer": "diagram",
+				"dyer": "Diagram",
 				"engineer": "Engineer",
 				"firepit": "Orignal Chef",
 				"fisherman": "Fisherman",
@@ -774,7 +777,7 @@
 			"areaselection": {
 				"close": "Closeure",
 				"description": "Choose here whether to delete the realm or not.",
-				"header": "Menu area",
+				"header": "Menu Area",
 				"remove": "From the floor"
 			},
 			"death": {
@@ -1177,7 +1180,7 @@
 			"worldseed": "Seed of the world"
 		},
 		"tooltip": {
-			"craftingblock": "Colonizer commands work here {0}",
+			"craftingblock": "Colonizer commands work here as a {0}",
 			"crate": "Settlers move to one of these pieces at a time to acquire or store a single item.",
 			"failsafe-points": "{0} adds star point capacity (not batch).",
 			"failsafe-threat": "{0} threats created",
@@ -1282,7 +1285,7 @@
 		"bread": "Bread",
 		"breadmeal": "Flour",
 		"bricks": "Brick",
-		"bricksblack": "Black Brics",
+		"bricksblack": "Black Bricks",
 		"bricksdarkred": "Dark Red Brick",
 		"bricksdarkyellow": "Yellow Bricks in the Dark",
 		"brickslight": "Light Brick",
@@ -1362,7 +1365,7 @@
 		"grassdry": "Grass",
 		"grassfen": "Marsh Grass",
 		"grassheath": "Eye",
-		"grassheathpurple": "healthy Plant",
+		"grassheathpurple": "Healthy Plant",
 		"grassmax": "Grass",
 		"grassmid": "Grass",
 		"grasswet": "Grass",
@@ -1427,7 +1430,7 @@
 		"machinetools": "Equipment Tool",
 		"manuscript": "Manuscript",
 		"merchanthub": "Merchant Center",
-		"metalgear": "Metal Qquipment",
+		"metalgear": "Metal Equipment",
 		"metallathe": "Metal Shelf",
 		"minerjob": "Miners Work",
 		"monocular": "Monocular",
@@ -1448,7 +1451,7 @@
 		"planksred": "Mahogany Board",
 		"points": "Complete",
 		"poisondart": "Poison Arrow",
-		"potash": "potash fertilizer",
+		"potash": "Potash Fertilizer",
 		"potempty": "Pot (Empty)",
 		"potflour": "Frying Pan (Flour)",
 		"potterystation": "Pottery Workshop",
@@ -1532,7 +1535,7 @@
 		"waterpump": "Water Pump",
 		"wheat": "Wheat",
 		"wheatmeal": "Wheat Porridge",
-		"wheatporridge": "wheat Polenta",
+		"wheatporridge": "Wheat Polenta",
 		"wheatstage1": "Wheat Seeds",
 		"wisteriaflower": "Wisteria Flower",
 		"wisteriajob": "Rattan harvester",
