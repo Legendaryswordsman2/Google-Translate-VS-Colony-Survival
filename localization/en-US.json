@@ -859,74 +859,74 @@
 					"nothing": "No"
 				},
 				"upgrades": {
-					"header": "Colony Points",
-					"preamble2": "<i>Current Points / Capacity</i>",
+					"header": "Colony Point",
+					"preamble2": "<i>Current Points/Capacity</i>",
 					"table": {
-						"cost": "Cost",
-						"current": "Current",
-						"levels": "Levels",
-						"name": "Upgrade Name",
-						"next": "Next"
+						"cost": "Price",
+						"current": "Tendency",
+						"levels": "Do",
+						"name": "Ship Name",
+						"next": "Then"
 					},
-					"upgradebutton": "Upgrade"
+					"upgradebutton": "Ship"
 				}
 			},
 			"itemselector": {
-				"description": "Select an item type to use",
-				"header": "Item Selection"
+				"description": "Select the project type to use",
+				"header": "Also Select"
 			},
 			"limits": {
-				"allreset": "Reset all",
-				"allzero": "Set all zero",
-				"description": "Colonists will work until the set amount is reached in the stockpile.",
-				"group1": "Select Limits Group",
-				"group2": "Select one of multiple groups for this specific worker. Adjusting limits will adjust them for all workers of this type with the same group.",
+				"allreset": "Reset everything",
+				"allzero": "It resets everything",
+				"description": "Colonizers run until the maximum supply reaches the pile.",
+				"group1": "Select Group Limit",
+				"group2": "Select one of several groups for that employee. A reasonable threshold would fit all of these workers into the same group.",
 				"hoverpriority": {
-					"a": "Crafting Priority",
-					"b": "Recipes with a +++ priority are crafted first.\nRecipes with a + priority are crafted last."
+					"a": "Production comes first",
+					"b": "A recipe with priority +++ has been created. \nRecipes with priority + are created last."
 				},
-				"waitingdata": "Waiting on data...",
-				"wrongcolony": "Selected crafting job is part of another colony"
+				"waitingdata": "Waiting for more details...",
+				"wrongcolony": "The next part of the colony is selected."
 			},
 			"merchantui": {
 				"buy": "Purchase",
-				"buy1": "Buy 1",
+				"buy1": "Market 1",
 				"buy25": "Buy 25",
 				"buy5": "Buy 5",
-				"buytext": "Purchase {0} for {1} points",
-				"buytext2": "Current funds allow for {0} purchase(s)",
+				"buytext": "Buy {0} with {1} points",
+				"buytext2": "Current cash accepted for {0} purchases",
 				"currentpoints": "Current Points: {0} / {1}",
-				"description": "Buy/sell items for Points",
-				"header": "Merchant trading",
+				"description": "Buy/sell items with Points",
+				"header": "Businessman business",
 				"sell": "Sell",
-				"sell1": "Sell 1",
+				"sell1": "I sold 1",
 				"sell25": "Sell 25",
 				"sell5": "Sell 5",
 				"selltext": "Sell {0} for {1} points",
-				"selltext2": "Current storage allows for {0} sale(s)"
+				"selltext2": "There are currently {0} products in the store."
 			},
 			"quickstart": {
-				"closetoggle": "Do not show this again",
-				"f1": "Press 'F1' to toggle this menu",
-				"next": "Next",
-				"previous": "Previous"
+				"closetoggle": "Don't do that again",
+				"f1": "Press 'F1' to change this menu.",
+				"next": "Then",
+				"previous": "Disease"
 			},
 			"specialblockremoval": {
-				"button": "Remove",
-				"description": "Removing this block of type {0} may cause problems for a colony. What do you want to do?",
-				"header": "Special Block removal"
+				"button": "Take it away",
+				"description": "Removing this type block {0} may cause community issues. what do you want me to do?",
+				"header": "Special blocks have been removed."
 			},
 			"toolconstruction": {
-				"builder": "Builder",
+				"builder": "Founder",
 				"buildera": "",
-				"builderb": "Needs a building area",
-				"builderc": "Builds things",
-				"description": "Select the type of area you want to create.",
+				"builderb": "Building space is required",
+				"builderc": "Build something",
+				"description": "Choose the area type you want to create.",
 				"destroyer": "Destroyer",
 				"destroyera": "",
-				"destroyerb": "Needs a destroyer area",
-				"destroyerc": "Destroys things",
-				"header": "Construction tool"
+				"destroyerb": "Destroyers are needed in this area",
+				"destroyerc": "Ruined everything",
+				"header": "Construction tools"
 			},
 			"tooljob": {
 				"barleya": "Feed for chickens",
