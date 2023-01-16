@@ -1235,24 +1235,24 @@
 		},
 		"upgrades": {
 			"builder": {
-				"level": "{0} Blocks",
-				"main": "Builder Area Size"
+				"level": "{0} Block",
+				"main": "Area: Builder"
 			},
 			"colonistcapacity": {
-				"level": "{0} Colonists",
-				"main": "Colonist Capacity"
+				"level": "{0} Colonists?",
+				"main": "Colony Capacity"
 			},
 			"digger": {
-				"level": "{0} Blocks",
-				"main": "Digger Area Size"
+				"level": "{0} Block",
+				"main": "Mine Location"
 			},
 			"health": {
-				"level": "Level {0} Health",
-				"main": "Health"
+				"level": "{0} Health Level",
+				"main": "Healthy"
 			},
 			"safezone": {
-				"level": "{0} Blocks",
-				"main": "Banner Safe Zone"
+				"level": "{0} Block",
+				"main": "Safety Zone Emphasis"
 			}
 		}
 	},
