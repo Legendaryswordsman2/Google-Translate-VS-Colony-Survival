@@ -1016,25 +1016,25 @@
 			},
 			"page4_2": {
 				"description": "Defend your colony against the monsters of the night!",
-				"header": "Colony Defense",
-				"text1": "Unlocking some science will add 'threat'. This is shown in the top-right of the UI. Recruiting extra colonists will add threat at a slow pace after the first 25. As the threat level rises, more and stronger monsters will appear.",
-				"text2": "Build walls and dig moats in the monster-free zone to protect the center of your colony. Feel free to place jobs like farms in the “monster zone” outside of this: colonists will leave this area and go to their beds when the night starts.",
-				"text3": "Your tinkerer will produce the item 'Night Slinger Guard'. Place this in your colony to recruit a slinger who works during the night.",
-				"text4": "Progress in the tech tree to unlock new guards, traps and the Sacred Failsafe."
+				"header": "Defense Colony",
+				"text1": "Unlock adds some lore to the threat. This is evident on the right side of the UI. After the first 25, we will slowly add apprentice settlers. As the threat level increases, more and stronger monsters will appear.",
+				"text2": "Defend your colony center by building walls and digging trenches in monster-free areas. I like to put farming etc in the “monster zone“ outside. Farmers will put the area to sleep at night.",
+				"text3": "Your tynkkerer will produce the 'Night Slinger Cohort' item. Put it in the colony to let the wheels refresh while you work at night.",
+				"text4": "Progressing through the tech tree unlocks new guards, traps, and divine failures."
 			},
 			"page5_2": {
-				"description": "Trade and expand to get access to unique resources",
-				"header": "Colony Points & Colonization",
-				"text1": "Unlock and place the Merchant’s Hub. Right-click it to open its interface. Sell items to earn Colony Points. Among others, points can be spent on upgrades like the colonist limit in the Colony Points page.",
-				"text2": "This world contains multiple regions with unique resources. There are mountaintops covered with snow, heaths covered in purple, marshes and mammoth trees. Unlock and equip the astrolabe to find them easily.",
-				"text3": "Unlock outposts, purchase an Outpost Banner and carry it with you while you explore. Place it to start an Outpost. Its stockpile and scientific progress are shared with the main colony and other outposts. Build outposts in the regions mentioned above to get access to their resources."
+				"description": "Trade and scale for unique resources",
+				"header": "Colonization and Colonization",
+				"text1": "Unlock and install Merchant Hub. Right-click to open the interface. Earn points by selling colony items. Points can be spent on upgrades, such as colonist caps on the Colony Points page, among other things.",
+				"text2": "The world has many realms with unique abilities. There are snow-capped mountains, myrtle-covered plants, swamps, and towering trees. Unlock and equip the astrolabe for easy finding.",
+				"text3": "Unlock outposts and purchase outpost flags to take with you on your explorations. Set up the launch pad. Its supplies and scientific advances are shared with the main colony and other garrisons. To access our resources, please create a website in any of the above countries."
 			},
 			"page6_2": {
-				"description": "Create more complex job systems",
+				"description": "Build more operating systems",
 				"header": "'Harvester' and 'Source' Blocks",
-				"text1": "For some jobs, you have to place both the 'harvester' and the 'source' block. Most of the time each harvester block needs about 10 source blocks.",
-				"text2": "A harvester block like the Scribe's Desk recruits a colonist to work there. That colonist will try to visit a nearby source block, in this case a filled Scroll Shelf, before crafting.",
-				"text3": "Harvesters empty their source blocks, but source blocks automatically regenerate over time. The 1 to 10 ratio ensures a sustainable long term balance."
+				"text1": "For some actions you need to define 'Harvest' and 'Source' blocks. In most cases, each collection block requires 10 resource blocks.",
+				"text2": "The Reapers recruit tenants to work there as front desk attendants. The settler will attempt to visit a nearby plaza (in this case, a full shelf) before starting.",
+				"text3": "The log harvester empties the source, but the source itself regenerates logs over time. A ratio of 1 to 10 ensures long-term equilibrium."
 			}
 		},
 		"settingsmenu": {
